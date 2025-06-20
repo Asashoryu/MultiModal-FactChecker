@@ -1,0 +1,19 @@
+yt-dlp
+langchain-core
+langchain-openai
+openai-whisper
+torch
+pdfminer.six
+pillow-heif
+matplotlib
+unstructured-inference
+unstructured-pytesseract
+unstructured
+pdf2image
+weaviate-client
+tqdm
+sentence-transformers
+python-dotenv
+
+
+# pip install -r requirements.txt
